@@ -1,4 +1,5 @@
 # Data Dictionary 
+You will need to download the UCLA Protest Image Dataset to train the model. Because of the the dataset size please contact Donghyeon Won (wondonghyeon) to download that dataset.
 *Note: These are features so there was no variable type attributed to the data. The variable types below are in reference to the probability results.
 |Variable Name|Variable Type|Description|
 | ------------- | ------------- |-------------|
